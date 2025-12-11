@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|c:\\users\\alejo\\desktop\\pruebas_amadeus_net\\ar\\subir proyecto a github\\backend\\webapimenu\\webapimenu\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|solutionrelative:webapimenu\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|c:\\users\\alejo\\desktop\\pruebas_amadeus_net\\ar\\subir proyecto a github\\backend\\webapimenu\\webapimenu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|solutionrelative:webapimenu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|c:\\users\\alejo\\desktop\\pruebas_amadeus_net\\ar\\subir proyecto a github\\backend\\webapimenu\\webapimenu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|solutionrelative:webapimenu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A41B9C3-58E1-4B52-778D-BE02B5347B69}|WebApiMenu.Tests\\WebApiMenu.Tests.csproj|c:\\users\\alejo\\desktop\\pruebas_amadeus_net\\ar\\subir proyecto a github\\backend\\webapimenu\\webapimenu.tests\\menuscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A41B9C3-58E1-4B52-778D-BE02B5347B69}|WebApiMenu.Tests\\WebApiMenu.Tests.csproj|solutionrelative:webapimenu.tests\\menuscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|c:\\users\\alejo\\desktop\\pruebas_amadeus_net\\ar\\subir proyecto a github\\backend\\webapimenu\\webapimenu\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|solutionrelative:webapimenu\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|c:\\users\\alejo\\desktop\\pruebas_amadeus_net\\ar\\subir proyecto a github\\backend\\webapimenu\\webapimenu\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|solutionrelative:webapimenu\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|c:\\users\\alejo\\desktop\\pruebas_amadeus_net\\ar\\subir proyecto a github\\backend\\webapimenu\\webapimenu\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|solutionrelative:webapimenu\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|c:\\users\\alejo\\desktop\\pruebas_amadeus_net\\ar\\subir proyecto a github\\backend\\webapimenu\\webapimenu\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|solutionrelative:webapimenu\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|c:\\users\\alejo\\desktop\\pruebas_amadeus_net\\ar\\subir proyecto a github\\backend\\webapimenu\\webapimenu\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|solutionrelative:webapimenu\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|c:\\users\\alejo\\desktop\\pruebas_amadeus_net\\ar\\subir proyecto a github\\backend\\webapimenu\\webapimenu\\custom\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|solutionrelative:webapimenu\\custom\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|c:\\users\\alejo\\desktop\\pruebas_amadeus_net\\ar\\subir proyecto a github\\backend\\webapimenu\\webapimenu\\mapper\\mappermenudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|solutionrelative:webapimenu\\mapper\\mappermenudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|c:\\users\\alejo\\desktop\\pruebas_amadeus_net\\ar\\subir proyecto a github\\backend\\webapimenu\\webapimenu\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|solutionrelative:webapimenu\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|c:\\users\\alejo\\desktop\\pruebas_amadeus_net\\ar\\subir proyecto a github\\backend\\webapimenu\\webapimenu\\contracts\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|solutionrelative:webapimenu\\contracts\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|c:\\users\\alejo\\desktop\\pruebas_amadeus_net\\ar\\subir proyecto a github\\backend\\webapimenu\\webapimenu\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|solutionrelative:webapimenu\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|c:\\users\\alejo\\desktop\\pruebas_amadeus_net\\ar\\subir proyecto a github\\backend\\webapimenu\\webapimenu\\contracts\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCF69EA-A5EC-39CE-93D8-FFCEE7350127}|WebApiMenu\\WebApiMenu.csproj|solutionrelative:webapimenu\\contracts\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApiMenu\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApiMenu\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T03:39:45.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApiMenu\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Models\\User.cs",
+              "RelativeToolTip": "WebApiMenu\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T02:41:45.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "WebApiMenu\\Models\\Menu.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Models\\Menu.cs",
+              "RelativeToolTip": "WebApiMenu\\Models\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T02:41:43.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiMenu\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "WebApiMenu\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T02:41:41.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiMenu\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\appsettings.json",
+              "RelativeToolTip": "WebApiMenu\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-10T13:31:55.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenusControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu.Tests\\MenusControllerTests.cs",
+              "RelativeDocumentMoniker": "WebApiMenu.Tests\\MenusControllerTests.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu.Tests\\MenusControllerTests.cs",
+              "RelativeToolTip": "WebApiMenu.Tests\\MenusControllerTests.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T21:33:27.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "WebApiMenu\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "WebApiMenu\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:15:08.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Services\\MenuService.cs",
+              "RelativeDocumentMoniker": "WebApiMenu\\Services\\MenuService.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Services\\MenuService.cs",
+              "RelativeToolTip": "WebApiMenu\\Services\\MenuService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:30:16.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Custom\\Utilities.cs",
+              "RelativeDocumentMoniker": "WebApiMenu\\Custom\\Utilities.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Custom\\Utilities.cs",
+              "RelativeToolTip": "WebApiMenu\\Custom\\Utilities.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA3wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T02:41:25.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Contracts\\IAuthService.cs",
+              "RelativeDocumentMoniker": "WebApiMenu\\Contracts\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Contracts\\IAuthService.cs",
+              "RelativeToolTip": "WebApiMenu\\Contracts\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T02:41:14.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiMenu\\Program.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Program.cs",
+              "RelativeToolTip": "WebApiMenu\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:32:18.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "WebApiMenu\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "WebApiMenu\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:12:39.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MapperMenuDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Mapper\\MapperMenuDto.cs",
+              "RelativeDocumentMoniker": "WebApiMenu\\Mapper\\MapperMenuDto.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Mapper\\MapperMenuDto.cs",
+              "RelativeToolTip": "WebApiMenu\\Mapper\\MapperMenuDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:27:28.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenusController.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Controllers\\MenusController.cs",
+              "RelativeDocumentMoniker": "WebApiMenu\\Controllers\\MenusController.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Controllers\\MenusController.cs",
+              "RelativeToolTip": "WebApiMenu\\Controllers\\MenusController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:38:52.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMenuService.cs",
+              "DocumentMoniker": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Contracts\\IMenuService.cs",
+              "RelativeDocumentMoniker": "WebApiMenu\\Contracts\\IMenuService.cs",
+              "ToolTip": "C:\\Users\\Alejo\\Desktop\\Pruebas_Amadeus_net\\AR\\Subir Proyecto a github\\Backend\\WebApiMenu\\WebApiMenu\\Contracts\\IMenuService.cs",
+              "RelativeToolTip": "WebApiMenu\\Contracts\\IMenuService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAWwAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:29:41.362Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
